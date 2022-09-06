@@ -1,0 +1,16 @@
+SE160172,10,gioi
+se173222,7,tot
+SE173181,7,tot
+SE143199,5,kha
+me153209,6,kha
+se173310,10,gioi
+se160172,9,tot
+se173181,5,kha
+me153209,6,kha
+se173310,9,tot
+se160172,8,kha
+me169172,8,tot
+SE173211,4,trung binh
+SE173222,9,tot
+me169172,7,kha
+se173222,7,kha

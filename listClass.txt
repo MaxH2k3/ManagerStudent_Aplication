@@ -1,0 +1,5 @@
+mae101,se1729,mae,fall2022,nguyn nhu ngoc,2
+mae201,se1728,mae,fall2022,le minh huy,4
+pro101,se1729,pro,summer2022,nguyen phat dat,4
+csi105,se1730,csi,spring2022,le minh hieu,4
+jpd113,se1720,jpd,summer2022,tran hoang viet anh,2

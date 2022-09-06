@@ -1,0 +1,8 @@
+se160172,nguyen anh son,male,092372123,it,3
+me169172,nguyen ba son,female,092173728,media,2
+se173181,trinh le khoa,male,098203746,it,2
+se143199,huynh ba thanh,male,092372132,it,1
+me153209,le duong bao anh,female,097836482,media,2
+se173211,tran van hieu,male,09273821,it,1
+se173222,ngo gia huy,female,092173822,it,3
+se173310,tong tran le huy,male,0942438547,it,2

@@ -1,0 +1,11 @@
+mae,mathematics for engineering,2
+cea,computer organization and architecture,3
+pro,object-oriented programming,3
+vov,vovinam 1,2
+vov,vovinam 2,2
+vov,vovinam 3,2
+gdqp,military education,0
+jpd,japanese elementary,3
+dbi,database systems,3
+prm,mobile programming,2
+csi,computer science,3
